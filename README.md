@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jose Lumbanraja</h1>
 <h3 align="center"> For Fun </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joselumbanraja&label=Profile%20views&color=129e00&style=plastic" alt="bayu1s" /> </p>
-<img align="right" alt="Coding" width="250" height="400" src="byu.jpg">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joselumbanraja&label=Profile%20views&color=129e00&style=plastic" alt="me" /> </p>
+<img align="right" alt="Coding" width="250" height="400" src="rafael.jpg">
 
 - 👨‍💻 You can also check out my portfolio at [https://github.com/joselumbanraja]
 
